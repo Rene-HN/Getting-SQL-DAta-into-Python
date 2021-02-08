@@ -1,2 +1,2 @@
-# Getting-SQL-DAta-into-Python
+# Getting-SQL-Data-into-Python
 Using sqlalchemy library to import data into a Jupyter notebook
